@@ -15,9 +15,9 @@
 Clone repo and create a virtual environment
 
 ```
-$ git clone https://github.com/jgirish23/chat-Bot
-$ cd chat-Bot
-$ python3 -m venv venv
+$ git clone https://github.com/jgirish23/convin_django_intern
+$ cd convin_django_intern
+$ python -m venv venv
 $ source venv/bin/activate
 ```
 
