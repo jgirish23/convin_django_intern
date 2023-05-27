@@ -40,6 +40,7 @@ $ python manage.py runserver
 
 ## References
 
-oauth.md
+creating credentials to enabled APIs : https://console.cloud.google.com/apis/credentials
+google calendar api doc : https://developers.google.com/calendar/api/quickstart/python
 
 
