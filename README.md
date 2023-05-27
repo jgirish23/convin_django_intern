@@ -1,4 +1,4 @@
-# convin_django_intern
+# convin django intern
 
 ## Screenshots
 
