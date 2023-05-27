@@ -38,6 +38,8 @@ Run
 $ python manage.py runserver
 ```
 
+- download the credentials file from google APIs and Services and rename it as client_secret.json 
+
 ## References
 
 - creating credentials to enabled APIs : https://console.cloud.google.com/apis/credentials
